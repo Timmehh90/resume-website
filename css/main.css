@@ -40,3 +40,15 @@ html {
 body {
   font-family: Poppins, sans-serif;
 }
+
+/* Utility CSS */
+
+.container {
+  max-width: 1024px;
+}
+
+/* Background */
+
+.bg-white {
+  background: fff;
+}
