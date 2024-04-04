@@ -1,0 +1,20 @@
+Over mij
+
+In het kort
+Geboren in het havendorp Pernis op 30 december 1990.
+Afgerond VMBO TL en MBO Schipper Binnenvaart.
+In het bezit van een E rijbewijs, heftruckcertificaat, VCA-VOL, en ADNR certificaat.
+Hobby's zijn onder andere gitaar spelen, klimmen, bergwandelen, en technologie.
+
+Stukje geschiedenis
+Sinds 2010 werk ik bij de KRVE in de Rotterdamse haven. Mijn werkzaamheden bestaan uit het los- en vastmaken van zeeschepen die Rotterdam binnenkomen. Wanneer een groot zeeschip de haven nadert, ga ik met twee van onze eigen "vletten" ofwel kleine vaartuigen naar het schip toe. Vlak voordat het schip aanmeert, manoeuvreren we tussen het schip en de kade en brengen we de trossen van het schip naar de wal, waar onze collega's ze om een bolder vastmaken. Het vastmaken van een groot schip kan wel tot 10 trossen per kant vereisen, dus dit is een tijdrovende taak waar we met het hele team aan werken.
+Als "roeier" bij de KRVE werk ik altijd in teamverband. Tijdens het afmeren fungeer ik als de ogen en oren van de loods of kapitein aan boord van het zeeschip. Ik houd nauwlettend alles in de gaten en geef direct feedback als ik merk dat er iets misgaat, zoals wanneer het schip te snel richting de wal beweegt. Op deze manier zorgen we er als team voor dat de afmeerprocedure veilig en efficiënt verloopt.
+Mijn interesse in technologie begon al op jonge leeftijd toen ik mijn eigen CU2-pagina maakte met puur HTML. Later was ik betrokken bij het opzetten van een eigen “modded” server voor een online multiplayer spel, wat mijn eerste ervaring was met het maken van scripts.
+
+Wat nu?
+Na 14 jaar met plezier in de haven te hebben gewerkt, ben ik me aan het verdiepen in de IT. Ik denk dat het tijd is om me voor te bereiden op een minder fysieke baan met een beter ritme.
+
+Plan
+Stap 1 – HTML5, CSS3 en JS leren om mijn eigen projectensite te maken.
+Stap 2 – Python leren.
+Stap 3 – C# leren.
